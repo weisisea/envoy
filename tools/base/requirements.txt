@@ -1048,7 +1048,7 @@ yarl==1.7.2 \
     #   aiohttp
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==63.4.1 \
-    --hash=sha256:7c7854ee1429a240090297628dc9f75b35318d193537968e2dc14010ee2f5bca \
-    --hash=sha256:dc2662692f47d99cb8ae15a784529adeed535bcd7c277fee0beccf961522baf6
+setuptools==67.5.1 \
+    --hash=sha256:15136a251127da2d2e77ac7a1bc231eb504654f7e3346d93613a13f2e2787535 \
+    --hash=sha256:1c39d42bda4cb89f7fdcad52b6762e3c309ec8f8715b27c684176b7d71283242
     # via -r requirements.in
